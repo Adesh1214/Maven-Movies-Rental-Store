@@ -134,7 +134,8 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
     
 ## Q29. “Customers often ask which films their favorite actors appear in. It would be great to have a list of all actors, with each title that they appear in. Could you please pull that for me?”
-    ![Output_Q29](https://github.com/user-attachments/assets/e97e49d9-137f-4863-a2ac-66723113f44b)
+![Output_Q29](https://github.com/user-attachments/assets/ccd4db11-d742-4056-a758-9355101d11d5)
+
 
 
 ## Q30. “The Manager from Store 2 is working on expanding our film collection there. Could you pull a list of distinct titles and their descriptions, currently available in inventory at store 2?”
