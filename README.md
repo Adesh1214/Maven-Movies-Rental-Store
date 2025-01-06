@@ -22,3 +22,4 @@ Help track and manage movie inventory effectively. Highlight gaps in the invento
 
 ## Q1. You need to provide customer firstname, lastname and email id to the marketing team
 
+<img src="https://github.com/Adesh1214/Maven-Movies-Rental-Store/blob/main/CODE_OUTPUTS/Output_Q1.PNG" alt=" " width="300" height="200"/>
