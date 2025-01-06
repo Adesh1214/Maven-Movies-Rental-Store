@@ -18,3 +18,7 @@ Analyze rental rates to identify trends and the profitability of various pricing
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 ## Tools & Library Used
+
+
+## Q1. You need to provide customer firstname, lastname and email id to the marketing team
+
